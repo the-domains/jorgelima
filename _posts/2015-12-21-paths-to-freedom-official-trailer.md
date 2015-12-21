@@ -44,14 +44,14 @@ app_links:
     package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/13700519'
 title: '"Paths to Freedom" Official Trailer'
-datePublished: '2015-12-21T18:20:14.004Z'
-dateModified: '2015-12-21T18:19:14.242Z'
+datePublished: '2015-12-21T18:59:13.140Z'
+dateModified: '2015-12-21T18:59:06.285Z'
 sourcePath: _posts/2015-12-21-paths-to-freedom-official-trailer.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
+starred: false
 authors: []
 _type: VideoObject
 _context: 'http://schema.org'

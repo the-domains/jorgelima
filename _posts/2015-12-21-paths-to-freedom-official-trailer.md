@@ -15,10 +15,10 @@ author:
           - 63
 related: []
 publisher:
-  url: 'https://vimeo.com/'
   name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 keywords:
   - fana
   - matos
@@ -44,13 +44,15 @@ app_links:
     package: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/13700519'
 title: '"Paths to Freedom" Official Trailer'
-datePublished: '2015-12-21T17:58:01.030Z'
-dateModified: '2015-12-21T17:54:23.763Z'
+datePublished: '2015-12-21T18:20:14.004Z'
+dateModified: '2015-12-21T18:19:14.242Z'
 sourcePath: _posts/2015-12-21-paths-to-freedom-official-trailer.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
